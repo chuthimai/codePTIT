@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A40843A127EB6E7200C2370D /* tam_giac_so_1.c in Sources */ = {isa = PBXBuildFile; fileRef = A40843A027EB6E7200C2370D /* tam_giac_so_1.c */; };
 		A45204CA27D2674D00C7E303 /* tong_uoc_so.c in Sources */ = {isa = PBXBuildFile; fileRef = A45204C927D2674D00C7E303 /* tong_uoc_so.c */; };
 		A46A600D27D332270019F8DD /* demo.c in Sources */ = {isa = PBXBuildFile; fileRef = A46A600C27D332270019F8DD /* demo.c */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A40843A027EB6E7200C2370D /* tam_giac_so_1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = tam_giac_so_1.c; sourceTree = "<group>"; };
 		A439052E27C650D6002E6605 /* codePTIT */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = codePTIT; sourceTree = BUILT_PRODUCTS_DIR; };
 		A45204C927D2674D00C7E303 /* tong_uoc_so.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = tong_uoc_so.c; sourceTree = "<group>"; };
 		A46A600C27D332270019F8DD /* demo.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = demo.c; path = ../demo.c; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			children = (
 				A45204C927D2674D00C7E303 /* tong_uoc_so.c */,
 				A46A600C27D332270019F8DD /* demo.c */,
+				A40843A027EB6E7200C2370D /* tam_giac_so_1.c */,
 			);
 			path = codePTIT;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				A46A600D27D332270019F8DD /* demo.c in Sources */,
 				A45204CA27D2674D00C7E303 /* tong_uoc_so.c in Sources */,
+				A40843A127EB6E7200C2370D /* tam_giac_so_1.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
